@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm a college senior who is honing their CS skils and look forward to where Computer Science may take me
 <!--
 **RyanAcosta256/RyanAcosta256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
